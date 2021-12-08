@@ -1,0 +1,17 @@
+---
+namespace: "osa"
+description: |-
+  Utility roles for installing openstack services. Examples are
+  creating message queues in rabbitmq, create database users and set up
+  services in the service catalog.
+name: "utils"
+version: "1.0.0"
+readme: "README.rst"
+authors:
+    - Dmitriy Rabotyagov <noonedeadpunk@ya.ru>
+    - Jonathan Rosser <jonathan.rosser@rd.bbc.co.uk>
+license:
+    - "Apache-2.0"
+tags:
+    - openstack
+repository: "https://github.com/jrosser/openstack-ansible-utils"
